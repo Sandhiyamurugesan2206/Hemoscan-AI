@@ -33,9 +33,8 @@ pip install -r requirements.txt
 python hemoglobin_train.py
 python test_pipeline.py
 streamlit run dashboard.py
+
 Team Members
 Rakshaa Bala
-
 Rohini
-
 Sandhiya Murugesan
